@@ -1,0 +1,7 @@
+User-agent: *
+Disallow: /politica
+Disallow: /agreement
+Disallow: /offer
+Disallow: /send.php
+
+Sitemap: https://xn----7sbaagc0cqfsebjl5agg3t.xn--p1ai/sitemap.xml
